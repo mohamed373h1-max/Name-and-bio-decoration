@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">زخرفلي</string>
+    <string name="nav_decorator">الزخرفة</string>
+    <string name="nav_suggestions">اقتراحات</string>
+    <string name="nav_bio">البايو</string>
+    <string name="nav_favorites">المفضلة</string>
+    <string name="decorator_title">استوديو زخرفة الأسماء</string>
+    <string name="decorator_subtitle">زخرف اسمك بالعربية والإنجليزية بلمسة ملكية وعصرية</string>
+    <string name="decorator_input_hint">اكتب اسمك بالعربي أو الإنجليزي...</string>
+    <string name="suggestions_title">اقتراحات الأسماء والألقاب</string>
+    <string name="suggestions_subtitle">أسماء مزخرفة جاهزة، ألقاب عشوائية، ومقترحات حسب العمر</string>
+    <string name="bio_title">مكتبة البايو والنبذة</string>
+    <string name="bio_subtitle">عبارات منتقاة ونبذات جاهزة لحساباتك بضغطة زر</string>
+    <string name="favorites_title">المفضلة السريعة</string>
+    <string name="favorites_subtitle">كل زخارفك وعباراتك وألقابك المحفوظة في مكان واحد</string>
+    <string name="copied_snackbar">تم النسخ إلى الحافظة بنجاح</string>
+    <string name="saved_favorite_snackbar">تم الحفظ في المفضلة</string>
+    <string name="removed_favorite_snackbar">تمت الإزالة من المفضلة</string>
+    <string name="undo_action">تراجع</string>
+</resources>

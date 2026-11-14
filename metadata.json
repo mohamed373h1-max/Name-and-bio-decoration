@@ -1,0 +1,6 @@
+{
+  "name": "زخرفلي",
+  "description": "تطبيق أنيق لزخرفة الأسماء بالعربية والإنجليزية وقسم البايو الفخم والهادئ والتقني مع نسخ مباشر وحفظ مفضلات سريع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
